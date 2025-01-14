@@ -16,8 +16,8 @@ To see the app in action, watch the [Demo Video](https://github.com/Utkarsh13tiw
 ## Screenshots
 
 ### Home Page
-![Home Page Screenshot](./assets/images/home-page.png)
-![Home Page Screenshot](./assets/images/home-page.png)
+![Home Page Screenshot](https://github.com/Utkarsh13tiwari/Fenado/blob/main/demo/Screenshot%20(1).png)
+![Home Page Screenshot](https://github.com/Utkarsh13tiwari/Fenado/blob/main/demo/Screenshot%20(2).png)
 
 
 
