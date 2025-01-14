@@ -13,6 +13,14 @@ The **Book Finder App** is a simple React-based web application that allows user
 ## Demo Video  
 To see the app in action, watch the [Demo Video](https://github.com/Utkarsh13tiwari/Fenado/blob/main/demo/demo.mp4) showcasing all its features, from search functionality to pagination. This video provides a detailed walkthrough of how to use the application.  
 
+## Screenshots
+
+### Home Page
+![Home Page Screenshot](./assets/images/home-page.png)
+![Home Page Screenshot](./assets/images/home-page.png)
+
+
+
 ---
 
 ## Installation and Setup  
